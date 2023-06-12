@@ -14,7 +14,7 @@ import java.awt.event.ActionEvent;
 
 public class Login extends JFrame {
 
-	private JPanel contentPane;
+	private final JPanel contentPane;
 
 	/**
 	 * Launch the application.
