@@ -13,10 +13,8 @@ import model.Usuario;
 import view.MenuView;
 import view.LoginView;
 
-/**
- *
- * @author estev
- */
+
+
 public class LoginController {
 
    private LoginView view;
