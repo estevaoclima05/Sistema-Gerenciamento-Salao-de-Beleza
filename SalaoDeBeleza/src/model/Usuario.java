@@ -10,7 +10,7 @@ package model;
  */
 public class Usuario {
     
-    private int id;
+    private int id ;
     private String usuario;
     private String senha;
     private String nome;

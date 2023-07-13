@@ -19,6 +19,8 @@ import view.FormCadastroView;
  */
 public class UsuarioDAO {
     
+    
+    private String oi;
     private final Connection connection;
 
     public UsuarioDAO(Connection connection) {
